@@ -20,5 +20,5 @@ I also love to play Basketball and as an proud italian I love to eat and cook!
 ---
 ## My Projects
 
-– automatic! [Work Advisor](https://workadvisor.netlify.app/) 
+– ## [Work Advisor](https://workadvisor.netlify.app/) 
 
