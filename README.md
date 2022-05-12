@@ -22,3 +22,10 @@ I also love to play Basketball and as an proud italian I love to eat and cook!
 
 ## [Work Advisor](https://workadvisor.netlify.app/) 
 
+The purpose of this app is to create a community for people who want to work in the hospitality industry and post their work experience at specific restaurants,bars,hotels etc. to help others find their ideal job in the hospitality industry.
+
+## [Organize your event](https://organize-your-event.netlify.app/) 
+
+Together with other 3 developers we created an event plataform app where "you" as an artist can oganize your events for the public and as a user "you" can buy the tickets of these events. 
+
+Login: Email: meau@gmai.com. Pass:meau
