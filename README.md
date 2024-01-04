@@ -8,7 +8,11 @@ I'm very exited to work in this field of Web Development.
 I also love to play Basketball and as an proud italian I love to eat and cook!
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,redux,vue,git,postgres,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,redux,git,postgres,jest,)](https://skillicons.dev)
+
+## Working currently with <a href="https://stenciljs.com/"><img src="https://stenciljs.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.ee275b6c.png&w=96&q=75"></a>
+
+## In the proces of learning [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
 
 ## My Projects
 
